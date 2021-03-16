@@ -22,13 +22,13 @@ Run the code with:
 The goal of this classifier is to find the decision boundary separating the blue and the red data in the following planar data 
 
 <p align="center">
-  <img width="700" src="Figure_f.png">
+  <img width="650" src="images/Figure_f.png">
 </p>
 
 The decision bounbary is obtained as
 
 <p align="center">
-  <img width="700" src="Figure_g.png">
+  <img width="650" src="images/Figure_g.png">
 </p>
 
 
