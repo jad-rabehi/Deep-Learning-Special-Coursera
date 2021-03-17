@@ -1,27 +1,32 @@
-# deeplearning.ai/Deep Learning Specialisation   
+# deeplearning.ai/Deep Learning Specialisation on Coursera   
 ---
 
-This repository contains, samples of my labs in  the course of Deep Learning Specialisation provided by Coursera / deeplearning.ai.
+This repository contains samples of my programming assignments from all courses within the Coursera Deep Learning specialization offered by deeplearning.ai.
+
+**Instructor** : Andrew Ng
 
 
-All right reserved for deeplearning.ai
 
+
+---
 
 ## Contents
 
 * [Planar Data Classification with one Hidden Layer Neural Network](https://github.com/jad-rabehi/Deep-Learning-Special-Coursera/tree/main/Planar-Data-Classifier)
+* [Deep Neural Network for Image Classification  ](https://github.com/jad-rabehi/Deep-Learning-Special-Coursera/tree/main/DNN-Image-Classifier)
+
+
 * [You Look Only Once ](https://github.com/jad-rabehi/Deep-Learning-Special-Coursera/tree/main/YOLO)
 
 
-## Instructions
+## Packages
 
-This code needs the following librairies: [numpy](https://numpy.org/install/), [matplotlib](https://matplotlib.org/stable/users/installing.html) and [sklearn](https://scikit-learn.org/stable/install.html).
+The following librairies are needed in almost all codes in this repository: 
 
-
-
-
-
-## Result
+* [numpy](https://numpy.org/) is the fundamental package for scientific computing with Python.
+* [matplotlib](https://matplotlib.org/) is a library to plot graphs in Python.
+* [sklearn](https://scikit-learn.org/stable/) provides simple and efficient tools for data mining and data analysis. 
+* [h5py](http://www.h5py.org/) is a common package to interact with a dataset that is stored on an H5 file.
 
 
 ---
