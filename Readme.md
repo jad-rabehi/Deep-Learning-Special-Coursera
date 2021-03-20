@@ -15,6 +15,9 @@ This repository contains samples of my programming assignments from all courses 
 * [Planar Data Classification with one Hidden Layer Neural Network](https://github.com/jad-rabehi/Deep-Learning-Special-Coursera/tree/main/Planar-Data-Classifier)
 * [Deep Neural Network for Image Classification  ](https://github.com/jad-rabehi/Deep-Learning-Special-Coursera/tree/main/DNN-Image-Classifier)
 
+* [Optimization  ](https://github.com/jad-rabehi/Deep-Learning-Special-Coursera/tree/main/Optimization)
+* [Regularization  ](https://github.com/jad-rabehi/Deep-Learning-Special-Coursera/tree/main/Regularization)
+* [Neural Network Images Classifier using TensorFlow1  ](https://github.com/jad-rabehi/Deep-Learning-Special-Coursera/tree/main/Optimization)
 
 * [You Look Only Once ](https://github.com/jad-rabehi/Deep-Learning-Special-Coursera/tree/main/YOLO)
 
@@ -30,7 +33,5 @@ The following librairies are needed in almost all codes in this repository:
 
 
 ---
-### Copyright
 
-Copyright (C) [2021] [deeplearning.ai]
 
