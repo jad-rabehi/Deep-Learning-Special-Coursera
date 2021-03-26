@@ -17,7 +17,7 @@ This repository contains samples of my programming assignments from all courses 
 
 * [Optimization  ](https://github.com/jad-rabehi/Deep-Learning-Special-Coursera/tree/main/Optimization)
 * [Regularization  ](https://github.com/jad-rabehi/Deep-Learning-Special-Coursera/tree/main/Regularization)
-* [Neural Network Images Classifier using TensorFlow1  ](https://github.com/jad-rabehi/Deep-Learning-Special-Coursera/tree/main/Optimization)
+* [Neural Network Images Classifier using TensorFlow1  ](https://github.com/jad-rabehi/Deep-Learning-Special-Coursera/tree/main/TensorFlow1)
 
 * [Convolutional-Netwoks ](https://github.com/jad-rabehi/Deep-Learning-Special-Coursera/tree/main/Convolutional-Netwoks)
 
