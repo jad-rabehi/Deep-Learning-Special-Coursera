@@ -102,7 +102,7 @@ def forward_propagation(X, parameters):
     return Z3
 
 
-# GRADED FUNCTION: compute_cost 
+#  compute_cost 
 
 def compute_cost(Z3, Y):
     """
